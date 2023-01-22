@@ -29,7 +29,7 @@ Thanks to public transportation, he can travel the same exact path as many times
 wants after traveling a path between two flags once, without getting tired. (More detailed
 explanation is given with the graphs in the More Examples section.)<br/>
 During the race, he has to start from Samandıra Tesisleri and finish at Şükrü Saraçoğlu
-by running the shortest route.<br\>
+by running the shortest route.<br/>
 • He has to cut all the flags, starting from any point with a flag.<br/>
 • He can cut the flags in any order that will lead to the minimum distance path.<br/>
 • There can be many different paths between any two flags.<br/>
